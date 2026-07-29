@@ -236,9 +236,9 @@ chitu-admin/
 
 | 驾驶总览 | 用户管理 | 行程管理 |
 |:---------|:---------|:---------|
-| <!-- 待上传 --> | <!-- 待上传 --> | <!-- 待上传 --> |
+| <img src="docs/screenshots/驾驶总览web.png" width="240"> | <img src="docs/screenshots/用户管理web.png" width="240"> | <img src="docs/screenshots/行程管理web.png" width="240"> |
 | **提醒记录** | **数据统计** | **登录页** |
-| <!-- 待上传 --> | <!-- 待上传 --> | <!-- 待上传 --> |
+| <img src="docs/screenshots/提醒记录web.png" width="240"> | <img src="docs/screenshots/数据统计web.png" width="240"> | <img src="docs/screenshots/登录页web.png" width="240"> |
 
 ---
 
